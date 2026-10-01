@@ -87,3 +87,4 @@ INSERT INTO itens_pedido (pedido_id, produto_id, quantidade, preco_unitario) VAL
 (9, 4, 1, 349.90);
 
 select * from itens_pedido;
+select * from clientes;
